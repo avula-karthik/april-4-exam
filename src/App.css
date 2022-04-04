@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+form{
+  text-align: left;
+  width: 45%;
+  margin: auto;
+}
+body{
+  background-color: cyan;
+}
+.upSpace{
+  margin-top: 2%;
+}
